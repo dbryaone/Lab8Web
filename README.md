@@ -1,1 +1,3 @@
 # Lab8Web
+
+<img width="1919" height="444" alt="image" src="https://github.com/user-attachments/assets/90b67e15-e6dd-4d1e-99de-a23009608544" />
