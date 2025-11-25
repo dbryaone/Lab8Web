@@ -1,6 +1,6 @@
 # Lab8Web
 
-Memulai lab8 dengan membuat mengaktifkan xampp dan membuat tabel yang berisi data barang
+Memulai lab8 dengan mengaktifkan xampp dan membuat tabel yang berisi data barang
 <img width="1502" height="477" alt="image" src="https://github.com/user-attachments/assets/167c36af-fda2-497e-bd36-c14417dc9451" />
 
 Langkah selanjutnya membuat folder Lab8Web dan buat file yang bernama index.php
